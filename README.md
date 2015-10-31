@@ -21,10 +21,10 @@ You can see the port number in command prompt after sucessfull run
 You can change the settings in server/config/config.js file
 
 ###### *Screen 1*
-![screenshot](./scrrenshot.png?raw=true)
+![screenshot](./Scrrenshot.png?raw=true)
 
 ###### *Screen 2*
-![screenshot](./scrrenshot1.png?raw=true)
+![screenshot](./Scrrenshot1.png?raw=true)
 
 ###### *Screen 3*
-![screenshot](./scrrenshot2.png?raw=true)
+![screenshot](./Scrrenshot2.png?raw=true)
