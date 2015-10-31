@@ -24,7 +24,7 @@ You can change the settings in server/config/config.js file
 ![screenshot](./Screenshot.png?raw=true)
 
 ###### *Screen 2*
-![screenshot](./Screenshot1.PNG?raw=true)
+![screenshot](./Screenshot1.png?raw=true)
 
 ###### *Screen 3*
-![screenshot](./Screenshot2.PNG?raw=true)
+![screenshot](./Screenshot2.png?raw=true)
